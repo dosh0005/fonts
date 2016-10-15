@@ -10,17 +10,17 @@ html{
 }
 html,body{
     background-color: #d4d4d4;
-    font-family: 'Domine', serif;
+    font-family: 'Domine', 'Times New Roman',Times serif;
 }
 h1{
     font-size: 3.998rem;
     padding:1rem 2rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 }
 h2{
      font-size: 2.827rem;
     padding:1rem 2rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat',Helvetica, Arial, sans-serif;
 }
 nav ul{
     padding:1rem 0;
